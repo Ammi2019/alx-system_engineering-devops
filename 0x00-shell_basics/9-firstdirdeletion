@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo rmdir /tmp/my_first_directory
+cd -
