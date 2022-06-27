@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rmdir my_first_directory /tmp
+sudo rmdir /tmp/my_first_directory
