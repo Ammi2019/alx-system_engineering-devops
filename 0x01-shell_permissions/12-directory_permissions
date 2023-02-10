@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -o  my_dir
+mkdir [!-o [my_dir]]
