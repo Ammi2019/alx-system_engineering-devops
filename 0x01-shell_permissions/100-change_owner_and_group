@@ -1,2 +1,2 @@
 #!/bin/bah
-chown --reference=staff vincent
+chown -R staff:vincent .
