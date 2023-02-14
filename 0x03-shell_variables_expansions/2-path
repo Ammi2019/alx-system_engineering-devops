@@ -1,2 +1,2 @@
 #!/bin/bash
-find . $PATH | mkdir /action
+export PATH="$USER/action:PATH"
